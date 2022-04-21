@@ -12,4 +12,8 @@ chmod +x /usr/local/bin/dadjoke
 dadjoke
 ```
 
+For added effect:
+`sudo apt install cowsay`
+`dadjoke | cowsay -f budfrogs`
+
 I regret nothing.
